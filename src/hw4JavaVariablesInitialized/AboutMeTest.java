@@ -11,5 +11,6 @@ public class AboutMeTest {
 				+ "\nMy Appertment rent is " + abm1.myAppertmentRent + "\nMy Yearly Income is " + abm1.myYearlyIncome
 				+ "\nMy Yearly Expance is " + abm1.myYearlyExpance + "\nMy Bank Balance is " + abm1.myBankBalance + "\nLastly It is " + abm1.iAmFromBd + " I am from bangladesh");
 	}
+	
 
 }

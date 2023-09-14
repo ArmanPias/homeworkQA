@@ -18,7 +18,7 @@ public class AboutMe {
 	//
 
 	public void aboutMe() {
-		System.out.println("I am aboutMe methhood");
+		System.out.println( "My name is " + myName );
 	}
 
 }
